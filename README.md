@@ -1,2 +1,2 @@
 # TextTwist
-TextTwist in HTML5, javascript and PHP
+TextTwist in HTML5 and JavaScript 
